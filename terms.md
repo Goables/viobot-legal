@@ -52,6 +52,16 @@ You may not use Viobot to:
 * Attempt to obtain premium or beta access without authorization
 * Resell, sublicense, or commercially redistribute Viobot access without permission
 
+## Ownership and Intellectual Property
+
+Viobot, including its source code, bot name, documentation, configuration systems, database schemas, icons, images, website content, bot assets, and related materials, is owned by Viobot unless otherwise stated.
+
+Using Viobot does not give users, servers, moderators, administrators, or server owners ownership of Viobot or permission to copy, modify, redistribute, resell, sublicense, host, or create derivative versions of Viobot or its assets.
+
+Server owners and moderators remain responsible for content they create through Viobot, such as moderation reasons, aliases, ticket text, configuration text, and server-specific messages. However, Viobot itself and its underlying software remain owned by the bot operator.
+
+No license is granted to use Viobot’s source code, private assets, documentation, or proprietary materials except with prior written permission from the copyright owner.
+
 ## 5. Moderation Features
 
 Viobot may provide moderation-related features such as warnings, mutes, bans, role changes, nickname changes, logging, tickets, papertrail records, moderation history, activity reports, and related tools.
@@ -165,3 +175,10 @@ Continued use of Viobot after changes are posted means the updated Terms apply.
 For questions about these Terms, contact:
 
 art3mis_7129
+
+---
+
+© 2026 Viobot. All rights reserved.
+
+Viobot and related source code, documentation, icons, images, bot assets, website content, and proprietary materials are owned by Viobot unless otherwise stated.
+

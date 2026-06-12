@@ -185,3 +185,9 @@ Continued use of Viobot after changes are posted means the updated policy applie
 For questions or privacy requests, contact:
 
 art3mis_7129
+
+---
+
+© 2026 Viobot. All rights reserved.
+
+Viobot and related source code, documentation, icons, images, bot assets, website content, and proprietary materials are owned by Viobot unless otherwise stated.
