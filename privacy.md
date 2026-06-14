@@ -132,7 +132,7 @@ Different types of data may be kept for different periods:
 * Alias data is kept until deleted by an authorized moderator or alias owner.
 * Beta access records may be kept while a server participates in the beta program or while needed for troubleshooting, security, or administrative records.
 * Premium access records may be kept while needed to verify access, troubleshoot premium features, enforce limits, prevent abuse, or maintain administrative records.
-* Premium-created data, such as reports, backups, ticket transcripts, archives, or expanded feature data, may be kept according to the retention rules for that feature.
+* Premium-created data, such as reports, or expanded feature data, may be kept according to the retention rules for that feature.
 * Moderation records may be retained for server safety, accountability, appeals, and abuse prevention.
 * Papertrail or evidence references may be retained as part of moderation records.
 

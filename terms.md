@@ -124,7 +124,7 @@ Limits may apply to features such as aliases, activity reports, or other bot fun
 
 If beta or premium access ends, Viobot may stop allowing new use of beta-only or premium-only features. Existing data created while beta or premium features were enabled may remain stored according to the Viobot Privacy Policy and applicable retention rules.
 
-For example, if a server loses Viobot Plus access, the server may no longer be able to create additional premium-only resources, but existing moderation records, aliases, tickets, reports, or configuration data may not be automatically deleted.
+For example, if a server loses Viobot Plus access, the server may no longer be able to create additional premium-only resources, but existing moderation records, aliases, reports, or configuration data may not be automatically deleted.
 
 ## 11. Privacy
 
