@@ -27,7 +27,7 @@ Viobot may store limited Discord-related information needed to provide its featu
 * Timestamps related to bot actions
 * Beta program records, such as beta server IDs, enabled beta feature flags, the user ID of the person who added or updated beta access, optional beta notes or reasons, and related timestamps
 * Premium access records, such as Discord SKU IDs, entitlement-related access information, premium feature keys, access check results, and related timestamps
-* Data created by premium or beta features, such as activity reports, expanded alias data, configuration backups, staff digest data, ticket archives, ticket transcripts, or advanced moderation search data, if those features are enabled
+* Data created by premium or beta features, such as activity reports, or expanded alias data, if those features are enabled
 
 Viobot does not intentionally collect email addresses, phone numbers, payment card information, banking information, passwords, or Discord account credentials.
 
