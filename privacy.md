@@ -1,10 +1,10 @@
 # Viobot Privacy Policy
 
-Effective Date: 6/23/2026
+Effective Date: 7/29/2026
 
 Viobot is a Discord moderation and utility bot designed to help Discord server staff manage moderation records, reminders, tickets, server configuration, aliases, server variables, logging, premium features, beta features, automated safety features, and related server safety tools.
 
-This Privacy Policy explains what information Viobot may collect, how that information is used, how long it may be kept, and how users can request access to or deletion of information stored by Viobot.
+This Privacy Policy explains what information Viobot may collect, how that information is used, how long it may be kept, and how users can submit requests involving information stored by Viobot.
 
 ## 1. Information Viobot May Collect
 
@@ -169,23 +169,30 @@ Different types of data may be kept for different periods:
 
 Server owners or authorized administrators may request removal of server configuration data if Viobot is removed from a server.
 
-## 11. User Requests
+## 11. Data Privacy Requests
 
-Users may request access to, correction of, deletion of, or anonymization of information stored about them by contacting:
+Users may request access to, correction of, deletion of, or de-identification of information stored about them by opening a private **Data Privacy** ticket in the official Viobot Support server.
 
-art3mis_7129
+The public `/privacy` command provides information about this process and links users to the Viobot Privacy Policy and official support server. The command is informational only and does not access, export, modify, or delete stored data.
 
 Requests should include:
 
 * The user's Discord user ID
-* The Discord server/guild where the request applies
-* A description of the request
+* The Discord server/guild where the request applies, when relevant
+* A clear description of the information or action being requested
+* Any relevant record, ticket, moderation action, or Viobot feature involved
 
-Viobot administrators may need to verify that the requester controls the Discord account associated with the request.
+Users should submit requests using the Discord account associated with the requested data whenever possible. Viobot may need to verify that the requester controls that account before processing a request.
 
-Some requests may need to be reviewed by the relevant server owner or moderation team, especially when the request involves server moderation records.
+Users should not provide passwords, Discord authentication tokens, government identification, payment information, or other unnecessary sensitive information in a Data Privacy ticket.
 
-Some information may be retained, minimized, restricted, or anonymized instead of fully deleted where retention is reasonably necessary for moderation accountability, abuse prevention, security, legal compliance, payment-access verification, or dispute resolution.
+Data Privacy requests are reviewed manually by the Viobot owner. Viobot does not provide public commands that allow users, server staff, or other third parties to directly inspect, edit, export, or delete stored user data.
+
+Some requests may require consultation with the relevant server owner or moderation team, especially when the request involves server moderation records, appeals, abuse reports, evidence, or other records created for server safety and accountability.
+
+Some information may be retained, minimized, restricted, corrected, or de-identified instead of fully deleted where retention is reasonably necessary for moderation accountability, abuse prevention, security, dispute resolution, payment-access verification, legal compliance, or protection of users and servers.
+
+Viobot may be unable to remove copies of information that are outside the bot operator's control, such as messages copied or quoted by server staff, Discord audit-log entries, external evidence retained by a server, or content stored independently by third parties.
 
 ## 12. Server Owner and Moderator Controls
 
@@ -199,7 +206,9 @@ Server owners and authorized moderators are also responsible for ensuring that t
 
 Viobot stores data in a database controlled by the bot operator. Reasonable efforts are made to limit access to stored data and prevent unauthorized access.
 
-However, no system can be guaranteed to be completely secure. Users should avoid sending sensitive personal information through bot commands, tickets, aliases, variables, reminders, announcements, reports, or moderation notes unless necessary.
+Access to privacy-related data management is restricted to the Viobot owner. Public users, server moderators, and server administrators are not provided direct commands to inspect, edit, export, or delete stored user data.
+
+However, no system can be guaranteed to be completely secure. Users should avoid sending sensitive personal information through bot commands, tickets, aliases, variables, reminders, announcements, reports, moderation notes, or Data Privacy tickets unless it is necessary for the request.
 
 ## 14. Children
 
@@ -213,9 +222,11 @@ Continued use of Viobot after changes are posted means the updated policy applie
 
 ## 16. Contact
 
-For questions or privacy requests, contact:
+For privacy questions or requests, open a private **Data Privacy** ticket in the official Viobot Support server.
 
-art3mis_7129
+The public `/privacy` command provides links to the support server and this Privacy Policy.
+
+For other support matters, users may contact the Viobot team through the official support server.
 
 ---
 
