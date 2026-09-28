@@ -1,6 +1,6 @@
 # Viobot Terms of Service
 
-Effective Date: 6/23/2026
+Effective Date: 9/28/2026
 
 These Terms of Service govern the use of Viobot, a Discord moderation and utility bot. By adding Viobot to a Discord server, configuring Viobot, using Viobot commands, purchasing or using Viobot Plus, participating in the Viobot beta program, or interacting with Viobot features, you agree to these Terms.
 
@@ -50,7 +50,7 @@ You may not use Viobot to:
 * Collect information unrelated to legitimate bot functionality
 * Impersonate Viobot, Discord, or another service
 * Attempt to exploit, disrupt, reverse engineer, or abuse Viobot
-* Use aliases, server variables, logs, tickets, reports, announcements, or moderation notes for unlawful or abusive purposes
+* Use aliases, server variables, logs, tickets, reports, announcements, moderation notes, or Papertrail evidence for unlawful, abusive, or unauthorized disclosure purposes
 * Upload custom server avatars or other content that infringes intellectual property rights, impersonates another person or service, misleads users, contains illegal content, or violates Discord rules
 * Circumvent Discord permissions, privacy controls, rate limits, monetization systems, or safety systems
 * Attempt to obtain premium or beta access without authorization
@@ -75,6 +75,16 @@ Moderation actions taken through Viobot are performed by server staff or accordi
 Some commands may allow staff to choose whether a user receives a direct message, or whether a moderation notice includes appeal-related information. Viobot does not guarantee that a direct message will be delivered, that an appeal option will be available, or that server staff will review an appeal.
 
 Users who disagree with a moderation action should contact the relevant server's staff team, unless the issue concerns Viobot itself.
+
+### Papertrail Confidentiality
+
+Papertrail records and evidence are confidential moderation materials associated with the server in which they were created. Papertrail content may include screenshots, attachments, message content, usernames, display names, Discord user IDs, moderator notes, or other information connected to a moderation matter.
+
+Server owners, administrators, moderators, and any other authorized users who can access Papertrail content must treat that content as confidential and should limit access to authorized staff of the originating server.
+
+Papertrail content must not be disclosed, forwarded, reposted, reproduced, or otherwise shared with users or third parties outside the server in which the Papertrail was created, except when disclosure is required to comply with applicable law, valid legal process, Discord's Terms or policies, or a Discord safety or enforcement requirement.
+
+Access by the Viobot operator may occur when reasonably necessary to operate, secure, troubleshoot, or maintain Viobot, process a valid privacy or support request, investigate abuse, or comply with legal or Discord platform obligations. Such access does not make Papertrail content public or remove its confidential status.
 
 ## 7. Automated Moderation and Safety Features
 

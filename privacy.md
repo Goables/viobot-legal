@@ -1,6 +1,6 @@
 # Viobot Privacy Policy
 
-Effective Date: 7/29/2026
+Effective Date: 9/28/2026
 
 Viobot is a Discord moderation and utility bot designed to help Discord server staff manage moderation records, reminders, tickets, server configuration, aliases, server variables, logging, premium features, beta features, automated safety features, and related server safety tools.
 
@@ -28,7 +28,7 @@ Viobot may store limited Discord-related information needed to provide its featu
 * Server variables, including variable names, variable values, updater information when stored, and timestamps
 * Public aliases and private moderator aliases, including alias names, help text, access settings, raw alias content, parsed alias actions, owner or creator IDs, updater IDs, and timestamps
 * Ticket-related metadata, such as ticket thread IDs, ticket category choices, custom Contact Us categories, and contact workflow data
-* Papertrail or evidence links added by moderators
+* Papertrail records and evidence provided by moderators, including evidence links, notes, message or attachment references, and related contextual information
 * Thread logging data, such as thread creation, archive, and unarchive events
 * Timestamps related to bot actions
 * Beta program records, such as beta server IDs, enabled beta feature flags, the user ID of the person who added or updated beta access, optional beta notes or reasons, and related timestamps
@@ -130,7 +130,9 @@ Automated safety records may be visible to authorized server staff through confi
 
 Because Viobot is a moderation bot, some records may be retained when necessary for server safety, rule enforcement, abuse prevention, dispute resolution, or moderation accountability.
 
-This may include records of warnings, mutes, suspicious-account mutes, voice mutes, bans, unbans, role changes, nickname changes, moderator notes, papertrail evidence, premium-generated moderation reports, automated safety records, and related log references.
+This may include records of warnings, mutes, suspicious-account mutes, voice mutes, bans, unbans, role changes, nickname changes, moderator notes, Papertrail evidence, premium-generated moderation reports, automated safety records, and related log references.
+
+Papertrail records and evidence may contain personal information, screenshots, attachments, message content, usernames, display names, Discord user IDs, moderator notes, or other contextual information connected to a moderation matter. Papertrail content is classified by Viobot as confidential moderation information and should only be accessible to authorized staff of the server in which the Papertrail was created, except where access is reasonably necessary for Viobot operation, security, privacy-request handling, or legal compliance.
 
 A user may request deletion or review of their data, but some moderation records may be retained if deletion would interfere with legitimate moderation, safety, appeal, or abuse-prevention needs. Where full deletion is not appropriate, Viobot administrators may choose to minimize, restrict, or anonymize records when feasible.
 
@@ -139,6 +141,8 @@ A user may request deletion or review of their data, but some moderation records
 Viobot does not sell or rent stored data.
 
 Stored information may be visible to authorized server staff, depending on the server's configuration and Discord permissions. For example, moderation logs may be posted in staff-only channels, ticket information may be visible to moderators, thread event logs may be visible in logging channels, automated safety alerts may be visible to staff, and activity reports may be visible to authorized staff.
+
+Papertrail records and evidence are intended for confidential moderation use within the server in which they were created. Server staff should not disclose, forward, repost, reproduce, or otherwise share Papertrail content with users or third parties outside the originating server. An exception may apply when disclosure is required to comply with applicable law, valid legal process, Discord's Terms or policies, or a Discord safety or enforcement requirement.
 
 Data may also be processed by Discord because Viobot operates through Discord's platform and APIs.
 
@@ -165,7 +169,7 @@ Different types of data may be kept for different periods:
 * Premium access records may be kept while needed to verify access, troubleshoot premium features, enforce limits, prevent abuse, or maintain administrative records.
 * Premium-created data, such as reports, custom category settings, server-specific appearance settings, or expanded feature data, may be kept according to the retention rules for that feature.
 * Moderation and automated safety records may be retained for server safety, accountability, appeals, and abuse prevention.
-* Papertrail or evidence references may be retained as part of moderation records.
+* Papertrail evidence and related references may be retained as confidential moderation records when reasonably necessary for server safety, accountability, appeals, abuse prevention, dispute resolution, or legal compliance.
 
 Server owners or authorized administrators may request removal of server configuration data if Viobot is removed from a server.
 
